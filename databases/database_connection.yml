@@ -1,0 +1,6 @@
+
+database: my_database
+user: my_user
+password: my_password
+host: example.com
+port: 5432
